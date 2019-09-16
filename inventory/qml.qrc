@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>assets/login.png</file>
+        <file>assets/mainmenu.jpg</file>
+        <file>Login.qml</file>
+        <file>ConsumpTaskMenu.qml</file>
+        <file>ConsumpCreateTask.qml</file>
+        <file>Options.qml</file>
+        <file>GeneralForm.qml</file>
+        <file>AdvancedForm.qml</file>
+        <file>InventoryCreateTask.qml</file>
+        <file>InventoryTaskMenu.qml</file>
+        <file>ShippingCreateTask.qml</file>
+        <file>ShippingTaskMenu.qml</file>
+        <file>ConsumpTaskView.qml</file>
+        <file>ShippingTaskView.qml</file>
+        <file>InventoryTaskView.qml</file>
+        <file>assets/hide.png</file>
+        <file>assets/unhide.png</file>
+    </qresource>
+</RCC>
